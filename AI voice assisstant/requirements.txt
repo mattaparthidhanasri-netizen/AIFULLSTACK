@@ -1,0 +1,5 @@
+google genai
+gradio 
+gtts
+speech_recognition
+tempfile
